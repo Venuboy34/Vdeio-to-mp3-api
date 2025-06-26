@@ -1,0 +1,4 @@
+name = "vdeio-to-mp3-api"
+main = "worker.js"
+compatibility_date = "2024-06-01"
+workers_dev = true
